@@ -25,7 +25,6 @@ This repository demonstrates how to securely hash passwords using salting in Jav
    ```
 
 2. Open the project in your IDE or navigate to the project folder in the terminal.
-   ```
 
 ## How It Works
 This project stores passwords using salting to ensure that even identical passwords result in different hashes, making it harder for attackers to crack them using precomputed hash tables (rainbow tables).
